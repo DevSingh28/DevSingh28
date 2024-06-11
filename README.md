@@ -26,8 +26,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/plotly.svg" height="30" alt="plotly logo" />
-  <img width="12" />
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/seaborn.svg" height="30" alt="seaborn logo" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/flask.svg" height="30" alt="flask logo" />
