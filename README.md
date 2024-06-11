@@ -71,6 +71,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/DevSingh28/DevSingh28/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/DevSingh28/DevSingh28/output/snake.svg" alt="Snake animation" />
 
 ###
