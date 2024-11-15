@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Dev Singh and I'm a Computer Science student at Gurugram University. I'm passionate about web development, machine learning, and data science.</h2>
+<h2 align="left">Hi 👋! My name is Dev Singh, and I am a recent Computer Science graduate from Gurugram University. I am passionate about web development, machine learning, and data science.</h2>
 
 ###
 
